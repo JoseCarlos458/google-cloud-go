@@ -1369,6 +1369,26 @@
     "release_level": "stable",
     "library_type": "GAPIC_AUTO"
   },
+  "cloud.google.com/go/maps/fleetengine/apiv1": {
+    "api_shortname": "fleetengine",
+    "distribution_name": "cloud.google.com/go/maps/fleetengine/apiv1",
+    "description": "Local Rides and Deliveries API",
+    "language": "go",
+    "client_library_type": "generated",
+    "client_documentation": "https://cloud.google.com/go/docs/reference/cloud.google.com/go/maps/latest/fleetengine/apiv1",
+    "release_level": "stable",
+    "library_type": "GAPIC_AUTO"
+  },
+  "cloud.google.com/go/maps/fleetengine/delivery/apiv1": {
+    "api_shortname": "fleetengine",
+    "distribution_name": "cloud.google.com/go/maps/fleetengine/delivery/apiv1",
+    "description": "Last Mile Fleet Solution Delivery API",
+    "language": "go",
+    "client_library_type": "generated",
+    "client_documentation": "https://cloud.google.com/go/docs/reference/cloud.google.com/go/maps/latest/fleetengine/delivery/apiv1",
+    "release_level": "stable",
+    "library_type": "GAPIC_AUTO"
+  },
   "cloud.google.com/go/maps/mapsplatformdatasets/apiv1alpha": {
     "api_shortname": "mapsplatformdatasets",
     "distribution_name": "cloud.google.com/go/maps/mapsplatformdatasets/apiv1alpha",
@@ -1967,6 +1987,16 @@
     "client_library_type": "generated",
     "client_documentation": "https://cloud.google.com/go/docs/reference/cloud.google.com/go/secretmanager/latest/apiv1",
     "release_level": "stable",
+    "library_type": "GAPIC_AUTO"
+  },
+  "cloud.google.com/go/securesourcemanager/apiv1": {
+    "api_shortname": "securesourcemanager",
+    "distribution_name": "cloud.google.com/go/securesourcemanager/apiv1",
+    "description": "Secure Source Manager API",
+    "language": "go",
+    "client_library_type": "generated",
+    "client_documentation": "https://cloud.google.com/go/docs/reference/cloud.google.com/go/latest/securesourcemanager/apiv1",
+    "release_level": "preview",
     "library_type": "GAPIC_AUTO"
   },
   "cloud.google.com/go/security/privateca/apiv1": {
