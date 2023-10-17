@@ -3,6 +3,14 @@
 
 
 
+## [1.56.1](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.56.0...bigquery/v1.56.1) (2023-10-17)
+
+
+### Bug Fixes
+
+* **bigquery:** Handle storage read api Recv call errors ([#8666](https://github.com/googleapis/google-cloud-go/issues/8666)) ([c73963f](https://github.com/googleapis/google-cloud-go/commit/c73963f64ef667daa8a33a5a4cc2156818fc6914))
+* **bigquery:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+
 ## [1.56.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.55.0...bigquery/v1.56.0) (2023-10-05)
 
 
