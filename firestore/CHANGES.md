@@ -1,5 +1,12 @@
 # Changes
 
+## [1.13.1](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.13.0...firestore/v1.13.1) (2023-10-17)
+
+
+### Bug Fixes
+
+* **firestore:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+
 ## [1.13.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.12.0...firestore/v1.13.0) (2023-09-18)
 
 
