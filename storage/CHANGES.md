@@ -1,6 +1,21 @@
 # Changes
 
 
+## [1.34.0](https://github.com/googleapis/google-cloud-go/compare/storage/v1.33.0...storage/v1.34.0) (2023-10-17)
+
+
+### Features
+
+* **storage/internal:** Add match_glob field to ListObjectsRequest ([#8618](https://github.com/googleapis/google-cloud-go/issues/8618)) ([e9ae601](https://github.com/googleapis/google-cloud-go/commit/e9ae6018983ae09781740e4ff939e6e365863dbb))
+* **storage/internal:** Add terminal_storage_class fields to Autoclass message ([57fc1a6](https://github.com/googleapis/google-cloud-go/commit/57fc1a6de326456eb68ef25f7a305df6636ed386))
+* **storage/internal:** Adds the RestoreObject operation ([56ce871](https://github.com/googleapis/google-cloud-go/commit/56ce87195320634b07ae0b012efcc5f2b3813fb0))
+* **storage:** Support MatchGlob for gRPC ([#8670](https://github.com/googleapis/google-cloud-go/issues/8670)) ([3df0287](https://github.com/googleapis/google-cloud-go/commit/3df0287f88d5e2c4526e9e6b8dc2a4ca54f88918)), refs [#7727](https://github.com/googleapis/google-cloud-go/issues/7727)
+
+
+### Bug Fixes
+
+* **storage:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+
 ## [1.33.0](https://github.com/googleapis/google-cloud-go/compare/storage/v1.32.0...storage/v1.33.0) (2023-09-07)
 
 
