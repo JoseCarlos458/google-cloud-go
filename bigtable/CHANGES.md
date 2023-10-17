@@ -1,5 +1,13 @@
 # Changes
 
+## [1.20.1](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.20.0...bigtable/v1.20.1) (2023-10-17)
+
+
+### Bug Fixes
+
+* **bigtable:** Return cluster error for Update when populated ([#8657](https://github.com/googleapis/google-cloud-go/issues/8657)) ([2105434](https://github.com/googleapis/google-cloud-go/commit/2105434f27a16ac05790c40b74d3a251ec584527))
+* **bigtable:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+
 ## [1.20.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.19.0...bigtable/v1.20.0) (2023-10-02)
 
 
